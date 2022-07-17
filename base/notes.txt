@@ -1,0 +1,5 @@
+
+viewMessages(User*)
+composeMessageMenu(User*)
+changePasswordMenu(User*)
+

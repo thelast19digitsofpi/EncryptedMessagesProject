@@ -1,0 +1,4 @@
+Does knowing that 65537 divides phi(N) damage the security of the system? My scheme picks the first E from a list of primes that works. Someone's E may be 65539 if (p-1) or (q-1) is a multiple of 65537 (unlikely but possible). Is that a problem?
+
+Does having the RSAKey class function both as a public key and a private key count as polymorphism?
+
